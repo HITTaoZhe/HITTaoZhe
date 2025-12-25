@@ -9,9 +9,6 @@
 - Languages: Python / Java 
 - Tools: Git / Docker / Linux 
 
-## 📌 Featured Projects
-- ⭐ [Project A](https://github.com/HITTaoZhe/your-repo) - one-line description
-- ⭐ [Project B](https://github.com/HITTaoZhe/your-repo) - one-line description
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HITTaoZhe)
@@ -22,4 +19,4 @@
 
 ## 🗂️ Contact
 - GitHub: https://github.com/HITTaoZhe
-- Blog: (如果有就写)
+
