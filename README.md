@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm TaoZhe 👋
 
-<!--
-**HITTaoZhe/HITTaoZhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Interested in: Backend / AI / Systems / Open Source
+- 🌱 Currently learning: (写你正在学的，比如 Go / Rust / LLM / etc.)
+- 📫 Reach me: (邮箱/社交链接)
+- 🧩 Fun fact: (一句有趣的自我介绍)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: Python / Java / C++ / (按你的情况改)
+- Tools: Git / Docker / Linux / (按你的情况改)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- ⭐ [Project A](https://github.com/HITTaoZhe/your-repo) - one-line description
+- ⭐ [Project B](https://github.com/HITTaoZhe/your-repo) - one-line description
+
+## 📈 GitHub Stats
+> 如果你不想用统计卡片，这段可以删掉
+![Stats](https://github-readme-stats.vercel.app/api?username=HITTaoZhe&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HITTaoZhe&layout=compact)
+
+## 🗂️ Contact
+- GitHub: https://github.com/HITTaoZhe
+- Blog: (如果有就写)
